@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @gokhankurtulus</h1>
 <h3 align="center">PHP Developer</h3>
 
-- 🔭 I’m currently working on [e-ticaret](https://github.com/gokhankurtulus/e-ticaret)
+- 🔭 I’m currently building my own ORM REST API framework for e-commerce with PHP 8+.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
