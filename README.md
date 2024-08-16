@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @gokhankurtulus</h1>
 <h3 align="center">PHP Developer</h3>
 
-- 🔭 I’m currently building my own ORM REST API framework for e-commerce with PHP 8+.
+- 🔭 Developing alternative, lightweight, modular solutions with PHP 8+ in my free time.
 
 ### Connect with me;
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gokhankurtulus/)
